@@ -18,7 +18,7 @@ Scrivo codice per risolvere problemi reali, automatizzare processi noiosi ed est
 * **Tech:** Streamlit, RAG Systems, Python.
 
 #### 3. ⚡ [Energy Strategy Data](https://github.com/JackBramucci/Energy-Data-Strategy)
-*Se si può risparmiare perchè non farlo?.*
+*Se si può risparmiare perchè non farlo?*
 * **Cosa fa:** Analisi di dataset energetici complessi per visualizzare trend di mercato nascosti.
 * **Tech:** Pandas, Matplotlib, Data Analysis.
 
@@ -29,6 +29,6 @@ Scrivo codice per risolvere problemi reali, automatizzare processi noiosi ed est
 * **AI & LLM:** Google Gemini API, Prompt Engineering.
 * **Web:** Streamlit (per creare interfacce veloci).
 
-🌱 *Sto imparando ogni giorno cercando di migliorare piano piano sempre di più. Se hai consigli o vuoi collaborare, scrivimi su LinkedIn.*
+🌱 *Sto imparando ogni giorno cercando di migliorare un passo alla volta sempre di più. Se hai consigli o vuoi collaborare, scrivimi su LinkedIn.*
 
 **"Ever tried. Ever failed. No matter. Try again. Fail again. Fail better." — Samuel Beckett**
