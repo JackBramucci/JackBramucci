@@ -1,4 +1,4 @@
-<!--### Ciao, sono Giacomo.
+### Ciao, sono Giacomo.
 
 Sono un ragazzo appassionato di **AI** e di tutte le sue possibili applicazioni.
 Scrivo codice per risolvere problemi reali, automatizzare processi noiosi ed estrarre valore dai dati.
