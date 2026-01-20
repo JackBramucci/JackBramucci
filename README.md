@@ -1,6 +1,6 @@
 ### Ciao, sono Giacomo.
 
-Sono un ragazzo appassionato di **AI** e di tutte le sue possibili applicazioni.
+Sono appassionato di **AI** e di tutte le sue possibili applicazioni.
 Scrivo codice per risolvere problemi reali, automatizzare processi noiosi ed estrarre valore dai dati.
 
 ---
@@ -13,7 +13,7 @@ Scrivo codice per risolvere problemi reali, automatizzare processi noiosi ed est
 * **Tech:** Python, BeautifulSoup, Google GenAI.
 
 #### 2. 📄 [AI Document Expert](https://github.com/JackBramucci/AI-Document-Expert)
-*Il nostro tempo è cosi prezioso, lasciamo all' AI che si occupi della parte peggiore.*
+*Il nostro tempo è cosi prezioso, lasciamo che sia l' AI ad occuparsi della parte peggiore.*
 * **Cosa fa:** Carichi un manuale tecnico e ci parli in chat. Risparmia ore di ricerca manuale.
 * **Tech:** Streamlit, RAG Systems, Python.
 
